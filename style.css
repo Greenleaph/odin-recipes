@@ -1,11 +1,26 @@
 .blog-banner {
     display: block;
     margin: auto;
+    border-radius: 10%;
 }
 .blog-title {
     color: gold;
+    font-family: fantasy;
     text-align: center;
+}
+.blog-subtitle {
+    color: gold;
+    font-family: fantasy;
+}
+.list-items {
+    color: silver;
 }
 body {
     background-color: rgb(62, 43, 46);
+}
+a {
+    color: silver;
+}
+p {
+    color: silver;
 }

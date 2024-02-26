@@ -1,6 +1,7 @@
 .blog-banner {
     display: block;
     margin: auto;
+    margin-bottom: 30px;
     border-radius: 10%;
 }
 .blog-title {
@@ -18,8 +19,18 @@
     padding: 10px;
     margin-bottom: 10px;
 }
+.description {
+    background-color:#744848;
+}
+.ingredients {
+    background-color: #ae642b;
+}
+.steps {
+    background-color: #262852;
+}
 body {
     background-color: rgb(62, 43, 46);
+    margin: auto;
 }
 a {
     color: silver;

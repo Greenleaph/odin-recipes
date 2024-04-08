@@ -1,7 +1,6 @@
 .blog-banner {
     display: block;
-    margin: auto;
-    margin-bottom: 30px;
+    margin: 40px auto 30px auto;
     border-radius: 10%;
 }
 .blog-title {
